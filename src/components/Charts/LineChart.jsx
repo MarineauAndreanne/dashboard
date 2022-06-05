@@ -11,7 +11,6 @@ import {
 } from "@syncfusion/ej2-react-charts"
 
 import {
-  lineCustomSerie,
   LinePrimaryYAxis,
   LinePrimaryXAxis,
   lineCustomSeries,
