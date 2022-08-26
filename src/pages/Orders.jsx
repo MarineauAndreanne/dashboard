@@ -12,9 +12,8 @@ import {
   PdfExport,
   Edit,
   Inject,
-  Grid,
 } from "@syncfusion/ej2-react-grids"
-import { ordersData, contextMenuItems, ordersGrid } from "../data/dummy"
+import { ordersData, ordersGrid } from "../data/dummy"
 import Header from "../components/Header"
 
 const Orders = () => {
